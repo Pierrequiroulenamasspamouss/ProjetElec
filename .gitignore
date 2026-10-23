@@ -1,0 +1,5 @@
+qelectrotech-0.100.0+git8590-x86-win64-readytouse
+**/__pycache__/
+*.pyc
+enonce_text.txt
+
