@@ -232,7 +232,7 @@ tubes_led = Machine(
 tubes_fluo_t5 = Machine(
     name="Tubes fluorescents T5",
     category="Éclairage",
-    power_nominal=70.0*6.0, #  70 tubes de 6W = 1200W
+    power_nominal=70.0*6.0, #  70 tubes de 6W = 
     power_type="mono",
     cos_phi=0.90,
     daily_runtime_hours=8.0,
