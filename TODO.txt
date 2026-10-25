@@ -4,3 +4,5 @@
 - téléchargement des datasheets
 - vérification que ce qui est fait est bien ce qu'on nous demande
 - explications de ce que j'ai fait
+
+Bonjour c'est le GOAThier
