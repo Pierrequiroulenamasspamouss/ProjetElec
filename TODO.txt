@@ -1,6 +1,6 @@
 - Plan de l'installation sur Qelectrotech
 
-Datasheet + données de machines:
+Datasheet + données de machines: (GOAThier)
 - Mesures précises de cos phi et autres
 - vérification des données inscrites pour chacune des machines ( ex : le cos phi, etc... )
 - téléchargement des datasheets
